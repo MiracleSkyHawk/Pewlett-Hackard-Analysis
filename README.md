@@ -27,6 +27,9 @@ The goal of this project is to help Bobby and PH determine the number of retirin
 ## Summary
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  
   In totl, 90398 positions need to be filled.
+  
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  
   There are probably not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees as only 1549 employees are eligible for the mentorship program.
